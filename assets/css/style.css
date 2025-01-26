@@ -170,6 +170,9 @@ h2 {
     #services .card-body {
         min-height: 191px;
     }
+    #events .table-condensed {
+        font-size: 1rem;
+      }
 }
 
 /* Large devices (small laptops, 992px and up) */
@@ -178,6 +181,9 @@ h2 {
     #services .card-body {
         min-height: auto;
     }
+    #events .table-condensed {
+        font-size: 1rem;
+      }
 }
 
 /* xl devices (large desktops, 1200px and up) */
@@ -186,6 +192,9 @@ h2 {
     #services .card-body {
         min-height: 220px;
     }
+    #events .table-condensed {
+        font-size: 1rem;
+      }
 }
 
 /* xxl devices (larger desktops, 1400px and up) */
@@ -194,4 +203,7 @@ h2 {
     #services .card-body {
         min-height: 195px;
     }
+    #events .table-condensed {
+        font-size: 1rem;
+      }
 }
