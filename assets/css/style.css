@@ -67,6 +67,12 @@ h2 {
     color: white
 }
 
+.discount {
+    background-color: var(--highlight-color);
+    font-weight: bold;
+    color: white
+}
+
 /* Navbar */
 
 #navbar {
@@ -102,6 +108,12 @@ h2 {
     border: none;
 }
 
+/* Event table font size*/
+#events .table-condensed {
+    font-size: 0.7rem;
+  }
+
+ 
 /* Footer / contact */
 
 #contact {
